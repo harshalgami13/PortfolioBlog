@@ -8,7 +8,18 @@
     position: fixed;
     z-index: 11;
 }
-
+.animate__animated.animate__fadeInUp.sec1{
+    animation-delay: 0.41s;
+}
+.animate__animated.animate__fadeInUp.sec2{
+    animation-delay: 0.61s;
+}
+.animate__animated.animate__fadeInUp.sec3{
+    animation-delay: 0.81s;
+}
+.animate__animated.animate__pulse{
+    animation-delay: 0s;
+}
 *{
     margin: 0;
     padding: 0;
